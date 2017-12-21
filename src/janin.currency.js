@@ -138,6 +138,7 @@ janin.currencies = [
     janin.currency.createCurrency ("Emercoin",            0x21, 0x80, "5",    "[LK]" , "EN5nVyEbLrhYfcjoyGgQFtD3QHETyj1dy1"),
     janin.currency.createCurrency ("EnergyCoin",          0x5c, 0xdc, "8",    "Z"    , "eD2P3q5PdyHYNwT94Dg6Wt4pBz64k8gwGf"),
     janin.currency.createCurrency ("Espers",              0x21, 0xa1, "6",    "Q"    , "EbENTy3x9Mr4PcmnNyzfdSALfkPaFSW3dt"),
+    janin.currency.createCurrency ("FairCoin",            0x5f, 0xdf, "8",    "[aZ]" , "fairVs8iHyLzgHQrdxb9j6hR4WGpdDbKN3"),
     janin.currency.createCurrency ("Fastcoin",            0x60, 0xe0, "8",    "a"    , "frxe8F7gQdiAVgy4mRXjpXH5vN1wyta1db"),
     janin.currency.createCurrency ("Feathercoin",         0x0e, 0x8e, "5",    "N"    , "6dxAP6oacHsove5X2kZPpddcT1Am167YzC"),
     janin.currency.createCurrency ("Fedoracoin",          0x21, 0x80, "5",    "[KL]" , "ENRPj6iEh14Xky2hv4B7zTJGMe5Kchjeo8"),
